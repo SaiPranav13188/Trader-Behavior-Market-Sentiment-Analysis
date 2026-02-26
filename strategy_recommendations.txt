@@ -1,0 +1,3 @@
+Rule 1 (Greed Sentiment): Reduce position sizing by 25% during 'Greed' days. Evidence shows win rates drop during these periods, likely due to market overextension.
+
+Rule 2 (Trader Behavior): Frequent trading is yielding alpha. Continue high-frequency strategy but implement automated trade execution to reduce latency costs.
